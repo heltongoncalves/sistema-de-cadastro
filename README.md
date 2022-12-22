@@ -3,5 +3,5 @@
 Status: em desenvolvimento.
 
 ```
-npm instal modulo
+npm install modulo
 ```
